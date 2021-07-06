@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mist41
-- 👀 I’m interested in Machine Learning and reading 
-- 🌱 I’m currently learning Python and Tensorflow
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and reading books and youtube..i'll get over this addiction 
+- 🌱 I’m currently learning Python and about the things related to machine learning, quantum computing , AI etc.
+- 💞️ I’m looking to collaborate on ...open-source projects to learn more.
 - 📫 How to reach me ...
 
 <!---
