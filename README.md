@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mist41
+- 👋 Hi, I’m @Param priyadev
 - 👀 I’m interested in Machine Learning and reading books and youtube..i'll get over this addiction 
 - 🌱 I’m currently learning Python and about the things related to machine learning, quantum computing , AI etc.
 - 💞️ I’m looking to collaborate on ...open-source projects to learn more.
